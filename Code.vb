@@ -163,10 +163,6 @@ Module Program
                 screan(x, width) = "-"
             Next
         End Sub
-
-        Public Sub edit()
-
-        End Sub
     End Class
 
     Public Class run
