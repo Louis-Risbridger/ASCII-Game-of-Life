@@ -82,7 +82,7 @@ Module Program
             Console.WriteLine("Please Input height of grid")
             height = Console.ReadLine()
         End Sub
-        Public Sub setwidth()
+        Public Sub setWidth()
             Console.WriteLine("Please input width")
             width = Console.ReadLine()
         End Sub
@@ -170,7 +170,7 @@ Module Program
 
         Public Sub New()
             grid.setHeight()
-            grid.setwidth()
+            grid.setWidth()
             grid.setScrean()
         End Sub
 
